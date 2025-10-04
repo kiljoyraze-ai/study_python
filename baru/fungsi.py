@@ -11,4 +11,4 @@ def indentity(nama , nik, nis, agama):
      "nik  :|"+     str(nik)  + "|\n"
      "nis  :|"+     str(nis)  + "|\n"
      "agama:|"+     agama     + "|\n")
-indentity("Bryan", 121300, 123222, "Islam")
+indentity("Rudo", 121300, 123222, "Catholic")
