@@ -29,3 +29,5 @@ def kalkulator():
     print("hasil penjumlahan dari ",angka, "+", angka2 ,"=", penjumlahan)
 
 kalkulator()
+#kesalahan pertama dalam menggunakan fungsi 
+# Parameter fungsi tidak dibutuhkan jika semua menggunakan input di dalam fungsi.
