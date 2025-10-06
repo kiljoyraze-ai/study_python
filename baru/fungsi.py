@@ -16,7 +16,7 @@ def indentity():
           "Nis  : ", nis, "\n"
           "Agama: ", agama)
 indentity()
-
+print()
 # indentity("Rudo", 121300, 123222, "Catholic")
 
 #fungsi sebuah kalkulator
@@ -48,4 +48,4 @@ def kalkulator():
 
 kalkulator()
 #kesalahan pertama dalam menggunakan fungsi 
-# Parameter fungsi tidak dibutuhkan jika semua menggunakan input di dalam fungsi.
+# 1. Parameter fungsi tidak dibutuhkan jika semua menggunakan input di dalam fungsi.

@@ -28,8 +28,20 @@ while number < 5:
      number = number + 1
 
 for y in range(1, 10):
-     print(y)
+        print(y)
 
 for y in range(1, 10, 2): #lonkgap dua 
-     print(y)
+        print(y)
 
+def sum(a, b):
+     return a + b
+print(sum(50, 90))
+print(sum(12, 18))
+
+nomor = sum(10, 90)
+nomor = 200 * nomor
+print(nomor)
+
+kurang = sum(10, 80)
+kurang = 100 - kurang
+print(kurang)
