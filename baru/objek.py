@@ -54,3 +54,9 @@ class User:
         return f"{self.pysical}{self.mana}"
 panggil = User(200, 100)
 print(panggil)
+
+ambilAngka = 17
+print(f"Diketahui variabel ambilAngka memiliki value sebesar: {ambilAngka} \n")
+print(f"""jadi kita akan mengambil angka melalui keyword atau kata kunci ('f') ,
+      atau bisa dibilang f itu format yang memudahkan kita untuk menggabungkan antara tanda kutip string dengan variabel, 
+      sehingga ini sangat memudahkan programmer untuk menulis sesuatu dengan dinamis bisa dikatakan ini lebih dinamis: {ambilAngka}""")
